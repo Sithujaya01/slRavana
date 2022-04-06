@@ -1,9 +1,9 @@
 {
-    "name": "RAVANA",
+    "name": "jf_bot",
     "description": "RavanaBot is the Modified Version of WhatsAsena, Made By @RAVANA_SL Team with Baileys.",
     "logo": "https://telegra.ph/file/d61b511f6769c96bb7424.jpg",
     "keywords": ["whatsapp", "userbot", "ravana", "WhatsAsena", "srilanka", "bot", "ai"],
-    "repository": "https://github.com/RAVANA-SL/slRavana",
+    "repository": "https://github.com/Sithujaya01/slRavana",
     "website":   "https://github.com/RAVANA-SL/slRavana",
     "success_url": "https://github.com/RAVANA-SL/slRavana",
     "stack": "container",
