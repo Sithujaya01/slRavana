@@ -2726,7 +2726,7 @@ FROM fusuf/whatsasena:latest
     #ASSISTANT_START_PIC = os.environ.get(
      #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
     #3)
-RUN git clone https://github.com/agentmax123/rnrp.git /root/4.0
+RUN git clone https://github.com/Sithujaya01/slRavana.git /root/4.0
 WORKDIR /root/4.0/ 
     #3)
     #STRINGSESSION_2 = os.environ.get("STRINGSESSION_2", None)
